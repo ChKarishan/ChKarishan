@@ -21,12 +21,12 @@ Welcome to my GitHub profile! I'm a full-stack developer (mainly backend tho heh
     />
 </a>
   
-  <a href="https://github.com/redux/" target="_blank" rel="noreferrer">
+  <a href="https://angular.dev/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png"
-      alt="redux"
+      src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg"
+      alt="angular"
       height="80"
-      title="redux"
+      title="Angular"
     />
    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
@@ -146,10 +146,10 @@ Welcome to my GitHub profile! I'm a full-stack developer (mainly backend tho heh
     />
   </a>
 
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.elastic.co/elasticsearch" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
-      alt="oracle"
+      src="https://cdn.worldvectorlogo.com/logos/elasticsearch.svg"
+      alt="ElasticSearch"
       height="80"
     />
 
@@ -185,12 +185,12 @@ Welcome to my GitHub profile! I'm a full-stack developer (mainly backend tho heh
       height="80"
     />
   </a>
-  <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer">
+  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://swimburger.net/media/ppnn3pcl/azure.png"
-      alt="kubernetes"
+      src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg"
+      alt="google cloud"
       height="80"
-      title="kubernetes"
+      title="Google Cloud"
     />
   </a>  
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
