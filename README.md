@@ -66,20 +66,20 @@ Welcome to my GitHub profile! I'm a full-stack developer (mainly backend tho heh
 <summary><b>Backend</b></summary>
 
 <p align="right">
-  <a href="https://golang.org" target="_blank" rel="noreferrer">
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
-      alt="go"
+      src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg"
+      alt="fastapi"
       height="80"
-      title="golang"
+      title="FastApi"
     />
   </a>
-    <a href="https://gin-gonic.com/">
+    <a href="https://flask.palletsprojects.com/">
     <img
-      src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png"
-      alt="gin gonic"
+      src="https://cdn.worldvectorlogo.com/logos/flask.svg"
+      alt="flask"
       height="80"
-      title="gin-gonic"
+      title="Flask"
     />
   </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
@@ -97,13 +97,13 @@ Welcome to my GitHub profile! I'm a full-stack developer (mainly backend tho heh
     />
   </a>
  <a
-    href="https://gorm.io/index.html"
+    href="https://expressjs.com/"
     target="_blank"
     rel="noreferrer"
   >
     <img
-      src="https://gorm.io/gorm.svg"
-      alt="gorm"
+      src="https://cdn.worldvectorlogo.com/logos/express-109.svg"
+      alt="ExpressJs"
       height="80"
     />
   </a>
