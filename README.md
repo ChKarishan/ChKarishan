@@ -5,7 +5,7 @@
 ## What Can I say, I just love software!
 
 
-Welcome to my GitHub profile! I'm a full-stack developer and a wannabe DevOps engineer who finds himself designing and redesigning frontends, fixing, and scaling messy backends—because [I'm tyrone! ](), and I can't stand bad software! 
+Welcome to my GitHub profile! I'm a full-stack developer (mainly backend tho hehehe ) who finds himself designing and redesigning frontends, fixing, and scaling messy backends—because [I'm tyrone! ](), and I can't stand bad software! 
 
 ## Technologies & Tools 🛠️
 <details open>
@@ -53,18 +53,10 @@ Welcome to my GitHub profile! I'm a full-stack developer and a wannabe DevOps en
       height="80"
     />
   </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-      alt="figma"
-      height="80"
-    />
-  </a>
-
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
-      alt="vuejs"
+      src="https://upload.vectorlogo.zone/logos/nextjs/images/271afdac-aad3-4712-89fd-a25f63fd6dd4.svg"
+      alt="NextJs"
       height="80"
     />
   </a>
