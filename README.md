@@ -55,7 +55,7 @@ Welcome to my GitHub profile! I'm a full-stack developer (mainly backend tho heh
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://upload.vectorlogo.zone/logos/nextjs/images/271afdac-aad3-4712-89fd-a25f63fd6dd4.svg"
+      src="https://upload.vectorlogo.zone/logos/nextjs/images/cf48b8f7-01c5-4564-a4e7-3854b6aea45c.svg"
       alt="NextJs"
       height="80"
     />
