@@ -283,7 +283,7 @@ Welcome to my GitHub profile! I'm a full-stack developer (mainly backend tho heh
 
   <a href="https://technogenics.io/" target="_blank" >
     <img
-      src="https://drive.google.com/file/d/1zZNuX7xxaekKFH7wq24FwL34OvRix9so/view?usp=sharing"
+      src="https://github.com/ChKarishan/ChKarishan/blob/main/tg_logo.jpeg"
       alt="Technogenics SMC PVT LTD"
       height="80"
     />
@@ -291,7 +291,7 @@ Welcome to my GitHub profile! I'm a full-stack developer (mainly backend tho heh
   
   <a href="https://funsoltech.com/" target="_blank" >
     <img
-      src="https://drive.google.com/file/d/1aqGZ83q5NvdNH3qCHVVu7ncuHgMEm55P/view?usp=sharing"
+      src="https://github.com/ChKarishan/ChKarishan/blob/main/funsol.jpeg"
       alt="Funsol Technologies"
       height="80"
     />
