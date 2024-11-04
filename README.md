@@ -283,7 +283,7 @@ Welcome to my GitHub profile! I'm a full-stack developer (mainly backend tho heh
 
   <a href="https://technogenics.io/" target="_blank" >
     <img
-      src="https://drive.google.com/file/d/1zZNuX7xxaekKFH7wq24FwL34OvRix9so/view?usp=drive_link"
+      src="https://drive.google.com/file/d/1zZNuX7xxaekKFH7wq24FwL34OvRix9so/view?usp=sharing"
       alt="Technogenics SMC PVT LTD"
       height="80"
     />
@@ -291,7 +291,7 @@ Welcome to my GitHub profile! I'm a full-stack developer (mainly backend tho heh
   
   <a href="https://funsoltech.com/" target="_blank" >
     <img
-      src="https://drive.google.com/file/d/1aqGZ83q5NvdNH3qCHVVu7ncuHgMEm55P/view?usp=drive_link"
+      src="https://drive.google.com/file/d/1aqGZ83q5NvdNH3qCHVVu7ncuHgMEm55P/view?usp=sharing"
       alt="Funsol Technologies"
       height="80"
     />
@@ -374,6 +374,5 @@ Thank you for visiting my profile. Let's create something awesome together!! ðŸš
   [![streak picture](https://github-readme-streak-stats.herokuapp.com/?user=ChKarishan&)](https://ChKarishan.me) 
   [![github contrib picture](https://github-readme-stats.vercel.app/api?username=ChKarishan&hide=contribs,prs)](https://ChKarishan.me) 
   
-<p align="right"> <a href="https://twitter.com/ChKarishan" target="blank"><img src="https://img.shields.io/twitter/follow/ChKarishan?logo=twitter&style=for-the-badge" alt="ChKarishan" /></a> </p>
 
 
